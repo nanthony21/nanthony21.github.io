@@ -1,6 +1,3 @@
-## Welcome!
-
-
 ### Python Packages
 
 #### PWSpy
