@@ -1,7 +1,7 @@
 
 
 #### PWSpy
-This package consists of core code as well as a variet of UI applications for the purpose of analyzing and interpreting Partial Wave Microscopy (PWS) data.
+This package consists of core code as well as a variety of UI applications for the purpose of analyzing and interpreting Partial Wave Microscopy (PWS) data.
 [Documentation](https://pwspy.readthedocs.io/en/dev/)
 
 #### mpl_qt_viz
