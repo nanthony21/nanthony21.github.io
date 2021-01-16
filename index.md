@@ -2,7 +2,6 @@
 layout: default
 ---
 
-### Python Packages
 
 #### PWSpy
 This package consists of core code as well as a variet of UI applications for the purpose of analyzing and interpreting Partial Wave Microscopy (PWS) data.
