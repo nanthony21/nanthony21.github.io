@@ -6,7 +6,7 @@ This package consists of core code for the purpose of analyzing and interpreting
 [Repository](https://github.com/nanthony21/PWSpy)
 
 #### PWSPy_gui
-A collection of GUI application built on top of the `PWSpy` making the analysis of PWS data easy and accessible to all.  
+A collection of GUI application built on top of `PWSpy` making the analysis of PWS data easy and accessible to all.  
 [Repository](https://github.com/nanthony21/pwspy_gui)
 
 #### mpl_qt_viz
