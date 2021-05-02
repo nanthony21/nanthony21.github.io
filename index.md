@@ -11,7 +11,7 @@ A collection of GUI applications built on top of `PWSpy` making the analysis of 
 
 #### mpl_qt_viz
 This package consists of UI extensions to the Matplotlib plotting library built using PyQt5. It includes interactive Qt widgets to view N-Dimensional images, conveniently cluster plots into a dockable window, provide various modes of user-friendly ROI drawing, semi-automated segmentation, and more.  
-[Documentation](https://nanthony21.github.io/mpl_qt_viz/)  
+[Documentation](https://mpl-qt-viz.readthedocs.io/en/latest/)  
 [Repository](https://github.com/nanthony21/mpl_qt_viz)
 
 #### PWS Micro-Manager
