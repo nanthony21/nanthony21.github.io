@@ -2,7 +2,7 @@
 
 With all the blessings in our life to give to others would help us begin our marriage with full hearts. In lieu of gifts, please consider donating to one of our favorite charities below.
 #### Natural Resources Defense Council  
-The Natural Resources Defense Council (NRDC) is a non-profit international environmental advocacy group. NRDC combines the power of more than three million members and online activists with the expertise of some 700 scientists, lawyers, and policy advocates across the globe to ensure the rights of all people to the air, the water, and the wild.
+The Natural Resources Defense Council (NRDC) is a non-profit international environmental advocacy group. NRDC combines the power of more than three million members and online activists with the expertise of some 700 scientists, lawyers, and policy advocates across the globe to ensure the rights of all people to the air, the water, and the wild.  
 [Info](https://en.wikipedia.org/wiki/Natural_Resources_Defense_Council)  
 [Donate](https://act.nrdc.org/donate/donate-one-time/)
 #### Innocence Project  
