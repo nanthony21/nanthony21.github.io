@@ -1,7 +1,7 @@
 
 
 #### PWSpy
-This package consists of core code for the purpose of analyzing and interpreting Partial Wave Spectroscopic Microscopy (PWS) data. Provides custom data types to to make extracting useful information from raw microscopy data easy. Includes a wide range of utilities for computer vision, parallel computation, segmentation, etc.
+This package consists of core code for the purpose of analyzing and interpreting Partial Wave Spectroscopic Microscopy (PWS) data. Provides custom data types to to make extracting useful information from raw microscopy data easy. Includes a wide range of utilities for computer vision, parallel computation, segmentation, etc.  
 [Documentation](https://pwspy.readthedocs.io/en/dev/)  
 [Repository](https://github.com/nanthony21/PWSpy)
 
@@ -15,7 +15,7 @@ This package consists of UI extensions to the Matplotlib plotting library built 
 [Repository](https://github.com/nanthony21/mpl_qt_viz)
 
 #### PWS Micro-Manager
-A customized fork of the popular open-source microscope automation software tailored to the needs of data acquisition for PWS related experiments.
+A customized fork of the popular open-source microscope automation software tailored to the needs of data acquisition for PWS related experiments.  
 [Repository](https://github.com/nanthony21/PWSMicroManager)
 
 #### PWS Plugin
