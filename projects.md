@@ -10,8 +10,12 @@ Includes a wide range of utilities for computer vision, parallel computation, se
 #### PWSPy_gui
 A collection of GUI applications built on top of the `PWSpy` Python package making the analysis of PWS 
 data easy and accessible to all.  
+
+ - PWS Analysis: Used for drawing ROIs, running standard data analysis routines, visualizing hyperspectral image cubes, and tabifying results.  
+ - ER Creator: Processes measurements of reference reflections (Materials with known RI) into an `ExtraReflectance` calibration file. This file is used by `PWSpy` to convert raw data into accurate reflectometry results.
+ 
 [Repository](https://github.com/nanthony21/pwspy_gui)  
-[Tutorial](AnalysisIntroduction/demo.html)  
+[Tutorial Video](AnalysisIntroduction/demo.html)  
 
 #### mpl_qt_viz
 This package consists of UI extensions to the Matplotlib plotting library built using PyQt5.
@@ -20,13 +24,14 @@ provide various modes of user-friendly ROI drawing, semi-automated segmentation,
 [Documentation](https://mpl-qt-viz.readthedocs.io/en/latest/)  
 [Repository](https://github.com/nanthony21/mpl_qt_viz)
 
+#### PWS Plugin
+A collection of plugins for Micro-Manager to provide automated acquisition of
+Partial Wave Spectroscopic Microscopy (PWS), PWS Dynamics, and fluorescence images.  
+[Repository](https://github.com/nanthony21/mmPWSPlugin)
+
 #### PWS Micro-Manager
 A customized fork of the popular open-source microscope automation software tailored to the needs
 of data acquisition for PWS related experiments.  
 [Repository](https://github.com/nanthony21/PWSMicroManager)
 
-#### PWS Plugin
-A collection of plugins for Micro-Manager to provide automated acquisition of
-Partial Wave Spectroscopic Microscopy (PWS), PWS Dynamics, and fluorescence images.  
-[Repository](https://github.com/nanthony21/mmPWSPlugin)
 
