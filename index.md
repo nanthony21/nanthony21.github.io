@@ -5,8 +5,7 @@ description: Researcher, Engineer, Software Developer
 
 ## About Me
 
-Alongside many others working as engineers, my background is in physics.
-As an undergraduate I conducted research on genereating Laguerre-Gaussian modes in optical and electron beams
+As an undergraduate in the Physics department at University of Oregon I conducted research on genereating Laguerre-Gaussian modes in optical and electron beams
 under the supervision of Benjamin McMorran.
 
 While completing a Masters in Applied Optical Physics, I developed software to aid in the
