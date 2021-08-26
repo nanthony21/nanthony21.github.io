@@ -26,6 +26,8 @@ samples and procedures, and much more.
 
  - ### [Resume](resources/NickAnthonyResume.pdf)
  
+ - ### [GitHub](https://github.com/nanthony21)
+ 
 ### Get in touch
 [Email](mailto:nickmanthony@hotmail.com) is the most reliable way to reach me, but feel free to get in touch on 
 [LinkedIn](https://www.linkedin.com/in/anthonynick/) or find me on [GitHub](https://github.com/nanthony21).
