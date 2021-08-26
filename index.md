@@ -3,6 +3,14 @@ title: Nick Anthony
 description: Researcher, Engineer, Software Developer
 ---
 
+## Links
+
+ - ### [Open Source Projects](projects)
+
+ - ### [Resume](resources/NickAnthonyResume.pdf)
+ 
+ - ### [GitHub](https://github.com/nanthony21)
+
 ## About Me
 
 As an undergraduate in the physics department at University of Oregon I conducted research on genereating Laguerre-Gaussian modes in optical and electron beams
@@ -19,13 +27,6 @@ Here at Northwestern I work to build a solid research infrastructure to support 
 This includes developing data analysis pipelines, constructing custom microscopes, creating new types of calibration
 samples and procedures, and much more.
 
-## See Also 
-
- - ### [Open Source Software](projects)
-
- - ### [Resume](resources/NickAnthonyResume.pdf)
- 
- - ### [GitHub](https://github.com/nanthony21)
  
 ### Get in touch
 [Email](mailto:nickmanthony@hotmail.com) is the most reliable way to reach me, but feel free to get in touch on 
