@@ -5,11 +5,11 @@ description: Researcher, Engineer, Software Developer
 
 ## Links
 
- - ### [Open Source Projects](projects)
+ - #### [Open Source Projects](projects)
 
- - ### [Resume](resources/NickAnthonyResume.pdf)
+ - #### [Resume](resources/NickAnthonyResume.pdf)
  
- - ### [GitHub](https://github.com/nanthony21)
+ - #### [GitHub](https://github.com/nanthony21)
 
 ## About Me
 
