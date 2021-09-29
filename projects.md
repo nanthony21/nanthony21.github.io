@@ -1,7 +1,9 @@
 ---
 title: Projects
-description: A collection of open source software
+description: A Collection of Open-Source Software
 ---
+
+# A Collection of Open-Source Software
 
 ### PWSpy  
 This package consists of core code for the purpose of analyzing and interpreting 
